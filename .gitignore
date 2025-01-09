@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__
+chrome-win64/
+data/
+wheelhouse/
+.idea/
+logs/
+backups/
+
+*.zip
+.env
+.env.*
+foo.py
